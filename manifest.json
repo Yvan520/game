@@ -1,0 +1,14 @@
+{
+  "name": "道途无疆：修仙录",
+  "short_name": "修仙录",
+  "description": "挂机修仙，逆天改命。挂机修炼、抽卡收集、境界突破、无限闯关。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0605",
+  "theme_color": "#c41e3a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='64' fill='%23c41e3a'/%3E%3Ctext x='256' y='340' text-anchor='middle' font-size='320' fill='%23ffd700'%3E🧘%3C/text%3E%3C/svg%3E", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='24' fill='%23c41e3a'/%3E%3Ctext x='96' y='128' text-anchor='middle' font-size='120' fill='%23ffd700'%3E🧘%3C/text%3E%3C/svg%3E", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
